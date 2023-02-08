@@ -48,9 +48,12 @@ public class JobController {
         return "Job is scheduled.";
     }
 
-	public String fetchJobInfo(){
+	public String UpdateJobInfo(){
 
 		return null;
 }
+	public String fetchJobInfo(){
+
+		return null;
 
 }
